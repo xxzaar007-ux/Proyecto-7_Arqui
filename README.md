@@ -41,7 +41,8 @@ Si sabemos cuánto pesaba la muestra al principio (`W0`) y qué humedad tenía (
 W_objetivo = W0 × (1 − H0) / (1 − Hf)
 ```
 
-Según la [guía de secado de café de Perfect Daily Grind (Castellano, 2020)](https://perfectdailygrind.com/es/2020/11/30/guia-para-el-secado-de-cafe/), antes de secarse el café tiene entre 40 % y 50 % de humedad, y el objetivo es bajarla a 11–12 %. La misma guía recomienda no pasar de 40 °C al secar café en pergamino, así que ese es el límite de nuestra alerta de temperatura.
+Según la [guía de secado de café de Perfect Daily Grind (Castellano, 2020)])<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/1b4e7cc2-7663-46c3-9e18-5081bfb4c90b" />
+, antes de secarse el café tiene entre 40 % y 50 % de humedad, y el objetivo es bajarla a 11–12 %. La misma guía recomienda no pasar de 40 °C al secar café en pergamino, así que ese es el límite de nuestra alerta de temperatura.
 
 Por ejemplo, si ponemos 1000 g de café con 45 % de humedad y queremos llegar a 12 %, el aviso llega cuando la muestra pesa unos **625 g**.
 
